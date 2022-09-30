@@ -3,3 +3,6 @@
 
 # Ignore sensitive information
 .env
+
+# Ignore compiled python code
+__pycache__/
