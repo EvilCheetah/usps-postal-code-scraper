@@ -1,2 +1,5 @@
 # Ignore Matching env-like folders
 *env/
+
+# Ignore sensitive information
+.env
